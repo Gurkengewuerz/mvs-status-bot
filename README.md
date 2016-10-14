@@ -1,4 +1,5 @@
 # MyVirtualServer Twitter Status Bot
+**[EINE EMAIL VERSION IST VERFÜGBAR - DIESE FUNKTIONIERT ZUVERLÄSSIGER](https://github.com/Gurkengewuerz/mvs-status-bot-email)**  
 
 Der MyVirtualServer Status Bot ist ein Inoffizeller Bot, der die Status Seite status.myvirtualserver.com (Software: cachethq) abruft und bei einer neuen Nachricht twittert.
 
